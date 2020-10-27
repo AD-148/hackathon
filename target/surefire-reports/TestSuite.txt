@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 27, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 357.427 sec <<< FAILURE! - in TestSuite
+TC_validData(tests.TS_FormFillupValid)  Time elapsed: 21.465 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at tests.TS_FormFillupValid.TC_validData(TS_FormFillupValid.java:21)
+
